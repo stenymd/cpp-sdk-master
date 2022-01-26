@@ -1,0 +1,2 @@
+include ':xtralife-sdk'
+include ':simpleapp'
